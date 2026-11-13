@@ -54,6 +54,23 @@ The Ensemble Model achieved the lowest validation RMSE among the tested models.
 - `README.md` – Project documentation.
 - `.gitignore` – Git ignored files configuration.
 
+- - `submission.csv` – Final house price predictions for 1,459 test records.
+ 
+  - ## Installation and Usage
+
+1. Clone this repository.
+2. Install the required Python libraries.
+3. Open the Jupyter Notebook.
+4. Run all cells sequentially.
+5. The final predictions will be saved as submission.csv.
+
+### Required Libraries
+- pandas
+- numpy
+- matplotlib
+- seaborn
+- scikit-learn
+
 ## 🚀 Results
 The trained ensemble model generates predictions for 1,459 test records and saves them in a CSV submission file.
 
