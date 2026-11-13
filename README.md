@@ -48,7 +48,7 @@ Models were evaluated using Root Mean Squared Error (RMSE).
 
 The Ensemble Model achieved the lowest validation RMSE among the tested models.
 
-## 📁 Project Structure
+# 📁 Project Structure
 
 - `house-price-prediction-professional.ipynb` – Complete machine learning implementation.
 - `README.md` – Project documentation.
@@ -56,7 +56,7 @@ The Ensemble Model achieved the lowest validation RMSE among the tested models.
 
 - - `submission.csv` – Final house price predictions for 1,459 test records.
  
-  - ## Installation and Usage
+## Installation and Usage
 
 1. Clone this repository.
 2. Install the required Python libraries.
@@ -64,7 +64,7 @@ The Ensemble Model achieved the lowest validation RMSE among the tested models.
 4. Run all cells sequentially.
 5. The final predictions will be saved as submission.csv.
 
-### Required Libraries
+## Required Libraries
 - pandas
 - numpy
 - matplotlib
